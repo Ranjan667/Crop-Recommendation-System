@@ -106,8 +106,6 @@ To contribute, follow these steps:
 
 ---
 
----
-
 ## 🙏 Acknowledgements
 
 We are grateful to the agricultural community, researchers, and organizations for their insights and data, which were instrumental in developing this system.
